@@ -23,6 +23,7 @@ Como solução apesentamos um projeto de BI que consiste no estudo dos dados ger
 O sistema é desenvolvido em C e mantem as informações em banco de dados relacional PostgreSQL. O modelo transacional está representado na Figura 1 - Modelo Transacional.
 
 ![Transacional](https://user-images.githubusercontent.com/55721262/141860666-7080c79a-b063-4a42-9691-580e270a9b61.png)
+
 Figura 1 - Modelo Transacional
  
 # 4	Proposta de Processo de BI  
@@ -39,6 +40,7 @@ Esta seção apresenta o modelo estrela (star schema) do estudo de caso Loca Bik
 O modelo do Data Warehouse utilizado neste projeto é o Star Schema (Modelo Estrela e está representado na Figura 03.
 
 ![Multidimensional-controle-de-versão](https://user-images.githubusercontent.com/55721262/141860816-9b51e27c-ae76-4348-b4c2-72e268016cb8.png)
+
 Figura 3 – Modelo Mutidimensional
  
 # 6	Elaboração do Data Warehouse
@@ -76,7 +78,6 @@ A dimensão funcionário precisou de um pouco mais de tratamento tendo em vista 
 
 7.1.4	Tabela Fato
 Para tabela fato, são aplicados dois calculos necessários para obtenção do atributo derivado Valor total.
-
 
 # 8	Dashboard
 
