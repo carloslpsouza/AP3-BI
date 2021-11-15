@@ -47,6 +47,7 @@ Figura 3 – Modelo Mutidimensional
 O Data Warehouse será a fonte integradora de informações da empresa, a tecnologia será utilizada com o intuito de servir de base para a camada de aplicação que será responsável por fornecer dados para a tomada de decisão na organização.
 
 6.1	Definição do DW
+
 6.1.1	Arquitetura
 
 Global – Teremos apenas um Data Wharehouse para toda a organização.
