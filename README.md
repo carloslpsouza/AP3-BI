@@ -31,6 +31,7 @@ Esta seção apresenta o processo de BI proposto para o projeto.
 A proposta do projeto de BI é representada a partir do croqui estabelecido na Figura 2.
 
 ![Captura de tela 2021-11-15 190823](https://user-images.githubusercontent.com/55721262/141860796-1298ca1c-e35c-48f5-ae72-de803f9af322.png)
+
 Figura 2 – Croqui do projeto
  
 # 5	Modelo Multidimensional
@@ -60,6 +61,8 @@ On-Primeses – A empresa dispões de servidores físicos que atendem a todo pá
 A base do sistema transacional apresenta boa estrutura de dados, além de uniformidade dos dados, por isso, o tratamento dos dados na faze de ETL possuem poucos passos a serem apresentados.
 
 ![image](https://user-images.githubusercontent.com/55721262/141861367-c8c5aecc-ffb8-45fd-81d3-a02704263ac9.png)
+
+Figura 4 – Fluxo ETL
 
 7.1.1	Dimensão Bicicleta
 A base das bicicletas cadastradas, possuem os mesmos atributos necessário para construção da dimenção bicicleta.
