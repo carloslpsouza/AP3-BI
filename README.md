@@ -1,6 +1,7 @@
 # AP3-BI
 Entrega de trabalho AP3 - Técnica de inteligência de negócios - O projeto consiste na elaboração dos requisitos, estrutura e montagem de um sistema BI para uma empresa fictícia
-#1	Introdução
+
+# 1	Introdução
 Este documento tem por finalidade coletar, analisar e definir as principais necessidades do projeto do estudo de caso Loca Bike. O documento procura demonstrar os principais problemas atuais e o foco investigativo desejado pelo cliente.
  
 # 2	Estudo de Caso
